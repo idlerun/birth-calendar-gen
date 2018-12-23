@@ -1,0 +1,28 @@
+{
+"people": [
+  {
+    "name": "Bob Schmob",
+    "birth": "1920-01-10",
+    "tree": ["schmob"]
+  },
+  {
+    "name": "Jill (Schmill) Schmob",
+    "birth": "1980-10-13",
+    "tree": ["schmob", "schmill"]
+  },
+  {
+    "name": "Bill Schmill",
+    "birth": "1980-10-14",
+    "tree": ["schmill"]
+  }
+],
+
+"weddings": [
+  {
+    "husband": "Bob Schmob",
+    "wife": "Jill Schmill",
+    "date": "1998-10-13",
+    "tree": ["schmob", "schmill"]
+  }
+]
+}
